@@ -1,7 +1,7 @@
 body{
     margin:0;
 	font-family: comic sans-serif;
-    background-color: #9c88ff;
+	background-image: url(https://p4.wallpaperbetter.com/wallpaper/335/16/975/magic-color-purple-gradation-wallpaper-preview.jpg);
     background-size: cover;
 }
 
@@ -13,8 +13,8 @@ body{
 p{
     text-align: center;
     padding-top: 10px;
-    color: black;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-family: 'Franklin Gothic Medium';
     font-size: 16px;
 }
 .calculator {
